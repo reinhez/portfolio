@@ -250,7 +250,7 @@ section h2 {
 .marquee-track {
     display: inline-flex;
     gap: 2rem;
-    animation: scroll-left 30s linear infinite;
+    animation: scroll-left 23s linear infinite;
 }
 
 .marquee-track:hover {
